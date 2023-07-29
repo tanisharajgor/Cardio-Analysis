@@ -4,4 +4,4 @@ Heart attack, cardiac arrest, stroke, arrhythmia, and cardiovascular diseases ar
 
 [Learn more here!](https://www.youtube.com/watch?v=bUPgeToseS0&ab_channel=TanishaRajgor)
 
-The following is an extension from some of my previous work that can be found here: 
+The following is an extension from some of my previous work that can be found [here](https://github.com/tanisharajgor/CardioX/blob/master/Cardiac_Report.pdf).
